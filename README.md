@@ -19,8 +19,8 @@ Use Postman to find each of the following HTTP codes:
 
 For each of the questions below, write:
 
-1. The the website which generated the HTTP status code
-2. A description about what the status code means
+1. The website which generated the HTTP status code
+2. A description of what the status code means
 3. If an app you were writing encountered this status code, what would you do (if anything) to resolve any issues?
 
 
