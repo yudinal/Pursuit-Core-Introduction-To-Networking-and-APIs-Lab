@@ -7,20 +7,6 @@ Status Code Scavenger Hunt!
 Use Postman to find each of the following HTTP codes:
 
 
-For each of the questions below, write:
-
-1. The the website which generated the HTTP status code
-2. A description about what the status code means
-3. If an app you were writing encountered this status code, what would you do (if anything) to resolve any issues?
-
-
-
-For reference, see:
-
-https://en.wikipedia.org/wiki/List_of_HTTP_status_codes (Links to an external site.)
-https://http.cat
-
-
 1. 200
 1. 301
 1. 400
@@ -29,6 +15,20 @@ https://http.cat
 1. 404
 1. 418
 1. 500
+
+
+For each of the questions below, write:
+
+1. The the website which generated the HTTP status code
+2. A description about what the status code means
+3. If an app you were writing encountered this status code, what would you do (if anything) to resolve any issues?
+
+
+For reference, see:
+
+https://en.wikipedia.org/wiki/List_of_HTTP_status_codes (Links to an external site.)
+https://http.cat
+
 
 # Part Two
 
