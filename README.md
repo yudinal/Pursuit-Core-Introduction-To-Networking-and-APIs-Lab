@@ -38,9 +38,9 @@ For each of the questions below, identify a website and search query that will g
 
 1. A random cat fact
 1. A list of 150 random users in English.
-1. The current stock price of Microsoft. (IEX API)
-1. The 5 year history of Apple stock prices (IEX API)
-1. All the Swift language repos on Github with Pursuit in their name
+1. All the repos on Github with Pursuit their name
+1. All the JavaScript repos on Github with Pursuit in their name
+1. All the Swift repos on Github with Pursuit in their name
 1. A list of all Pokemon
 1. A list of all items in Fortnite
 1. A list of all Game of Thrones Episodes.
